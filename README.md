@@ -8,5 +8,15 @@ Hayashi Eperical Work
 
 
 
+
+
+RUN MAIN.m (PLUG AND PLAY)
+
+
+
+
+
+
+
 %!@#$%^&*()PLEASE REFRAIN FROM CLICKING "RUN", PLEASE USE "RUN SECTION"!@#$%^&*()
 %%%%% THIS WILL RUN PART BY PART and avoid DEATH-BY-POP-UPS
