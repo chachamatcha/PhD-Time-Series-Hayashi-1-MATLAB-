@@ -10,6 +10,8 @@ Hayashi Eperical Work
 %
 
 
+Download the zip
+
 RUN MAIN.m (PLUG AND PLAY)
 
 
