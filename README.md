@@ -2,8 +2,11 @@
 Hayashi Eperical Work
 
 %HAYASHI EXERCISE 1: b,d,e,f,g,h,i,j,k,l
+
 %Mishkin has been included in this folder
+
 %JohnDaniel Paletto
+
 %Last modified 10/21/15
 
 
